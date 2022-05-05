@@ -1,0 +1,14 @@
+package primerosPasos;
+import java.util.*;
+
+public class EntradaDeDatos_6 {
+	
+	public static void main(String [] args) {
+		//Construir un objeto de tipo Scanner
+		
+		Scanner entrada = new Scanner(System.in);
+		
+		System.out.println("Introduce tu nombre: ");
+	}
+
+}

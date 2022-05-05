@@ -10,9 +10,9 @@ public class Manipula_CadenasIII {
 		
 		Alumno2 = "David";
 		
-		System.out.println(Alumno1.equals(Alumno2)); //Retorna true
+		System.out.println(Alumno1.equals(Alumno2));
 		
-		//Comparando cadena de caracteres con el metodo equalsIgnoreCase ignorando si son mayusculas o minusculas
+		//Comparando cadena de caracteres con el metodo equals ignorando si son mayusculas o minusculas
 		
 		String Alumno3, Alumno4;
 		
@@ -20,7 +20,7 @@ public class Manipula_CadenasIII {
 		
 		Alumno4 = "roberto";
 		
-		System.out.println(Alumno3.equalsIgnoreCase(Alumno4)); //Retorna true
+		System.out.println(Alumno3.equalsIgnoreCase(Alumno4));
 	}
 
 }
