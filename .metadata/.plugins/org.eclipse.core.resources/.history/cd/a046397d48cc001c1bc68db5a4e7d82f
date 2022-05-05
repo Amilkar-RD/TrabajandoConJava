@@ -1,0 +1,16 @@
+package primerosPasos;
+import java.util.*;
+
+
+public class Adivinar_Numero_13 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//Generar un numero aleatorio entre 1 y 100 
+		
+		System.out.println(Math.random());
+
+	}
+
+}
