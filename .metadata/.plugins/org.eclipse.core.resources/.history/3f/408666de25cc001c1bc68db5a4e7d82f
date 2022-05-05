@@ -1,0 +1,16 @@
+package primerosPasos;
+
+public class Manipula_CadenasIII {
+	
+	public static void main(String[]args) {
+		
+		String Alumno1, Alumno2;
+		
+		Alumno1 = "David";
+		
+		Alumno2 = "David";
+		
+		System.out.println(Alumno1.equals(Alumno2));
+	}
+
+}

@@ -1,0 +1,13 @@
+package primerosPasos;
+
+public class CalcuulosConMath {
+
+	public static void main(String[] args) {
+		
+		double raiz = Math.sqrt(10.5);
+		
+		System.out.print(raiz);
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package primerosPasos;
+
+public class Manipula_Cadenas4 {
+
+	public static void main(String[] args) {
+		//manipulando cadenas
+		
+		String nombre = "Amilkar";
+		System.out.println("Mi nombre es "+ nombre);
+		
+
+	}
+
+}
