@@ -1,0 +1,16 @@
+package primerosPasos;
+import javax.swing.*;
+
+public class Entrada_con_JOptionPane {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String Nombre_usuario = JOptionPane.showInputDialog("Introduce tu nombre por favor: ");
+		
+		String edad=JOptionPane.showInputDialog("Introduce tu edad, por favor: ");
+		System.out.println("Hola " +Nombre_usuario + " El año que viene tendrás " + (edad+1)+ " años" );
+
+	}
+
+}
