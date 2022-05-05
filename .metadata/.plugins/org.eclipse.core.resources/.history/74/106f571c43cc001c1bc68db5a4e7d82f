@@ -1,0 +1,17 @@
+package primerosPasos;
+import java.util.*;
+import javax.swing.*;
+
+public class Areas11 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner entrada = new Scanner(System.in);
+		
+		System.out.println("Elige una opcioón: \n1: Cuadrado \n2: Rectangulo \n3: Triángulo \n4: Circulo");
+		
+
+	}
+
+}
