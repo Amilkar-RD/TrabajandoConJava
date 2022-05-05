@@ -41,7 +41,7 @@ public class Areas11 {
 			break;
 		
 			default:
-				System.out.println("la opción no es correcta.");
+				System.out.println("la opción no es correcta, intorduce un numero entre el 1 y el 4");
 		
 		}			
 		
