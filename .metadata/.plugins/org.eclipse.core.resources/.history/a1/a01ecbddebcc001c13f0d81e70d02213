@@ -7,23 +7,17 @@ public class Comprueba_mail {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		//Validando si un mail tiene los caracteres arroba y punto
-		int arroba = 0;
-		
-		boolean punto= false;
+		//Validando si un correcto tiene el caracter arroba
+		boolean arroba = false;
 		
 		String mail=JOptionPane.showInputDialog("Introduce el mail");
 		
 		for(int i=0; i<mail.length(); i++) {
 			if(mail.charAt(i)=='@') {
-				arroba++;
-			}
-			
-			if(mail.charAt(i)=='.') {
-				punto =true;
+				arroba=true;
 			}
 		}
-		if(arroba == 1 && punto ==true) {
+		if(arroba == true) {
 			System.out.println("El mail es correcto");
 		}else {
 			System.out.println("El mail no es correcto");			
