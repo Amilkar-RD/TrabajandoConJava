@@ -4,7 +4,6 @@ import javax.swing.*;
 public class Factorial {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		/*Cantidad que resulta de la multiplicación de determinado número natural por 
 		 * todos los números naturales que le anteceden excluyendo el cero; se representa por n!
