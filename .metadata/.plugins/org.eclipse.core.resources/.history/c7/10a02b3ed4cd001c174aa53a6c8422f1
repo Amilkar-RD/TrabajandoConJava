@@ -1,0 +1,14 @@
+package primerosPasos;
+import javax.swing.*;
+
+public class Uso_arrays_I {
+
+	public static void main(String[] args) {
+		
+		int[] array = { 1,2,3 }; 
+		for (int element : array) { 
+		  System.out.print(element); // "123" 
+		}
+	}
+}
+	

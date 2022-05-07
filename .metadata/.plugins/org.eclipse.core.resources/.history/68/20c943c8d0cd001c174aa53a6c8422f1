@@ -1,0 +1,11 @@
+package primerosPasos;
+
+public class Uso_arrays_I {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println("amilkar");
+	}
+
+}

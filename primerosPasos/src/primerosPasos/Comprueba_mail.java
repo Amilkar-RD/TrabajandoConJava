@@ -5,7 +5,6 @@ import javax.swing.JOptionPane;
 public class Comprueba_mail {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		//Validando si un mail tiene los caracteres arroba y punto
 		int arroba = 0;

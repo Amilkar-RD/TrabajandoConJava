@@ -1,0 +1,34 @@
+package primerosPasos;
+
+public class Uso_Arrays_II_19 {
+	
+	public static void main (String[] args) {
+		
+		//Crear una matriz que almacene países
+		
+		String paises[] = new String[8];
+		
+		paises [0] = "Colombia";
+		paises [1] = "Nicaragua";
+		paises [2] = "Venezuela";
+		paises [3] = "España";
+		paises [4] = "México";
+		paises [5] = "PR";
+		paises [6] = "Argentina";
+		paises [7] = "Honduras";
+		
+		/*for(int i=0; i<paises.length; i++) {
+			System.out.println("País " +(i+1) + " " + paises[i]);
+		}*/
+		
+		
+		//Sintaxis siglo for-each
+		for (String elemento1 :paises) {
+			System.out.println(elemento1);		
+						
+		}
+		
+		
+	}
+
+}

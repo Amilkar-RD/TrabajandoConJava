@@ -1,0 +1,10 @@
+package primerosPasos;
+
+public class Uso_arrays_I {
+
+	public static void main(String[] args) {
+
+		System.out.println("amilkar");
+	}
+
+}

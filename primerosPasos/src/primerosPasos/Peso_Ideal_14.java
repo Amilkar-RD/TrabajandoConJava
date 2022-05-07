@@ -4,7 +4,6 @@ import javax.swing.*;
 public class Peso_Ideal_14 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		
 		// Caltular tu peso ideal

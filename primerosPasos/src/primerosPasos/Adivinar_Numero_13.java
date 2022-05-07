@@ -5,7 +5,6 @@ import java.util.*;
 public class Adivinar_Numero_13 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		//Adivinar elnumero aleatorio generado entre 1 y 100.
 		
